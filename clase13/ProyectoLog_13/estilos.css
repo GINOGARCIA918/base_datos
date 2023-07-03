@@ -1,0 +1,11 @@
+.ocultar{
+    display: none;
+}
+.mostrar{
+    display: block;
+}
+.base{
+    background-color: gray;
+}
+
+
